@@ -1,7 +1,7 @@
 # 📊 Dashboard Financeiro - Power BI
 ## Teste prático para candidatura de vaga
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://github.com/rcaondev/dashboard_test/blob/main/assets/dash.png)
 
 
 ### 🎯 **Objetivo do Projeto**
